@@ -7,3 +7,18 @@ Tamaño de arial
 #### A4
 ##### A5
 ###### A6
+
+Listado ordenada
+
+* a
+* b
+* c
+* d
+* e
+  * e1
+    * 1
+    * 2
+    * 3
+
+casillas 
+[]
